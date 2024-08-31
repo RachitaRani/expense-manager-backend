@@ -20,11 +20,12 @@
   2.getStats(get total income an total expenses ; 
               mapping min and max income and  min nad max expenses)
 
-#Dependencies used:
+#Dependencies used:<br>
 1.<a href="https://spring.io/projects/spring-data-jpa">Spring Data JPA</a><br>
-2.<a href="https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web">Starter web</a>
-3.<a href="https://mvnrepository.com/artifact/org.projectlombok/lombok">Lombok</a>
-4.<a href="https://mvnrepository.com/artifact/org.postgresql/postgresql">PostgreSQL</a>
-5.<a href="https://mvnrepository.com/artifact/io.springfox/springfox-swagger-ui">Swager UI</a>
+2.<a href="https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web">Starter web</a><br>
+3.<a href="https://mvnrepository.com/artifact/org.projectlombok/lombok">Lombok</a><br>
+4.<a href="https://mvnrepository.com/artifact/org.postgresql/postgresql">PostgreSQL</a><br>
+5.<a href="https://mvnrepository.com/artifact/io.springfox/springfox-swagger-ui">Swager UI</a><br>
 
 ***Note:   Use springfox or springdoc compatible to your project springboot version***
+***After setup access swgger ui at "http://localhost:8080/swagger-ui/index.html" ***
