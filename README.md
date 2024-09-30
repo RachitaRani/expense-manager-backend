@@ -2,21 +2,21 @@
 
 #APIs
 ## Expense API -->
-  1.Add expense
-  2.Get all expenses
-  3.Get expense by Id
-  4.Update expense by Id
+  1.Add expense<br>
+  2.Get all expenses<br>
+  3.Get expense by Id<br>
+  4.Update expense by Id<br>
   5.Delete expense by Id
 
 ## Income API -->
-  1.Add income
-  2.Get all incomes
-  3.Get income by Id
-  4.Update income by Id
+  1.Add income<br>
+  2.Get all incomes<br>
+  3.Get income by Id<br>
+  4.Update income by Id<br>
   5.Delete income by Id
 
 ## Stats API -->
-  1.getChart
+  1.getChart<br>
   2.getStats(get total income an total expenses ; 
               mapping min and max income and  min nad max expenses)
 
